@@ -1,0 +1,15 @@
+{
+  "id": "coyo",
+  "name": "COYO",
+  "version": "1.0.0",
+  "description": "COYO",
+  "main": "index.js",
+  "author": "Max Buchholz Max.Buchholz@gmx.de",
+  "license": "Unlicence",
+  "repository": "https://github.com/1Maxnet1/coyo-recipe/",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasCustomUrl": true
+  }
+}
